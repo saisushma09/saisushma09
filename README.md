@@ -21,6 +21,12 @@ Ordered list
 4. IT
 5. MECH
 
+Unordered list
+* BBA
+* PHARMACY
+* MBA
+* MCA
+
 
 <!--
 **saisushma09/saisushma09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
