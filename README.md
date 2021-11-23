@@ -27,7 +27,7 @@
 * MBA
 * MCA
 
-## Nexted list
+## Nested list
 1. CSE
     - C
     - PYTHON
