@@ -1,5 +1,7 @@
 # Hi there 👋
 ## ***welcome to aditya college***
+### cse
+![pspk](https://images.news18.com/ibnlive/uploads/2020/09/1599028397_fi-pawan.jpg)
 
 <!--
 **saisushma09/saisushma09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
