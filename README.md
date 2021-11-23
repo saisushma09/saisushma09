@@ -4,7 +4,7 @@
 <!--![pspk](https://images.news18.com/ibnlive/uploads/2020/09/1599028397_fi-pawan.jpg)-->
 ![aditya](https://i.pinimg.com/originals/a3/20/df/a320dfff4b89758668e6791021dce20c.png)
 
-|S.NO | NAME | ROLE | AGE |
+|**S.NO**| **NAME** |**ROLE** | **AGE** |
 |-----|------|------|-----|
 |1|JIN|VISUAL|29|
 |2|NAMJOON|MAIN RAPPER|27|
@@ -14,18 +14,26 @@
 |6|TAEHYUNG|VOCALIST|26|
 |7|JUNGKOOK|MAKNAE|24|
  
-Ordered list
+## Ordered list
 1. CSE
 2. ECE
 3. EEE
 4. IT
 5. MECH
 
-Unordered list
+## Unordered list
 * BBA
 * PHARMACY
 * MBA
 * MCA
+
+## Nexted list
+1. CSE
+    - C
+    - PYTHON
+    - C++
+    - JAVA
+ 
 
 
 <!--
