@@ -1,7 +1,7 @@
 # Hi there 👋
 ## ***welcome to aditya college***
 ### cse
-<!--![pspk](https://images.news18.com/ibnlive/uploads/2020/09/1599028397_fi-pawan.jpg)-->vocalist
+<!--![pspk](https://images.news18.com/ibnlive/uploads/2020/09/1599028397_fi-pawan.jpg)-->
 ![aditya](https://i.pinimg.com/originals/a3/20/df/a320dfff4b89758668e6791021dce20c.png)
 
 |S.NO | NAME | ROLE | AGE |
@@ -13,6 +13,14 @@
 |5|JIMIN|LEAD DANCER|26|
 |6|TAEHYUNG|VOCALIST|26|
 |7|JUNGKOOK|MAKNAE|24|
+ 
+Ordered list
+1. CSE
+2. ECE
+3. EEE
+4. IT
+5. MECH
+
 
 <!--
 **saisushma09/saisushma09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
